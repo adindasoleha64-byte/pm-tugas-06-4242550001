@@ -20,7 +20,7 @@ Saya memakai tiga batas lebar dalam aplikasi ini. Grid pada halaman daftar memak
 
 ## Pernyataan Penggunaan AI
 
-Kerangka kode aplikasi ini (struktur proyek, model data, konfigurasi go_router, tata letak responsif, dan draf README) dibuat dengan bantuan Claude (Anthropic). Saya mempelajari kode tersebut, menjalankannya di emulator, memeriksa tampilannya pada ukuran layar ponsel dan tablet, serta menyesuaikan data destinasi dan isi README. Saya bertanggung jawab atas seluruh isi repository ini.
+Kerangka kode aplikasi ini (struktur proyek, model data, konfigurasi go_router, tata letak responsif, dan draf README) dibuat dengan bantuan Claude (Anthropic). Saya mempelajari kode tersebut, menjalankannya di emulator, memeriksa tampilannya pada ukuran layar ponsel dan tablet, serta menyesuaikan data destinasi dan isi README.
 
 ## Menjalankan
 ```
