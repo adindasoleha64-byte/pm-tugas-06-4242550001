@@ -9,8 +9,9 @@
 ## Tangkapan Layar
 | | Ponsel | Tablet |
 |---|---|---|
-| Daftar | ![](screenshots/daftar_ponsel.jpeg) | ![](screenshots/daftar_tablet.png) | ![](screenshots/daftar_lebar.png) |
+| Daftar | ![](screenshots/daftar_ponsel.jpeg) | ![](screenshots/daftar_tablet.png) | 
 | Detail | ![](screenshots/detail_ponsel.jpeg) | ![](screenshots/detail_tablet.png) |
+| Daftar (layar lebar 1280 × 800, NavigationRail + grid 4 kolom) | ![](screenshots/daftar_lebar.png) |
 
 
 ## Keputusan Responsif
